@@ -5,7 +5,7 @@ public class Test2 {
 		Test2 t2 = new Test2();
 		t2.test();
 		}
-	public void test(){
+	private void test(){
 		String name = "Yoo Chanho";
 		int age = 28;
 		char sex = '남';
