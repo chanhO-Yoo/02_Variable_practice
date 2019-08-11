@@ -2,6 +2,10 @@ package com.kh.test;
 
 public class Test2 {
 	public static void main(String[] args) {
+		Test2 t2 = new Test2();
+		t2.test();
+		}
+	public void test(){
 		String name = "Yoo Chanho";
 		int age = 28;
 		char sex = '남';

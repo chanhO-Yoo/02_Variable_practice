@@ -11,6 +11,10 @@ public class Test1 {
      	단, 변수를 이용하여 출력하시오 .
 	 */
 	public static void main(String[] args) {
+		Test1 t1 = new Test1();
+		t1.test();
+	}
+	public void test() {
 		int i = 100;
 		long j = 999900000000L;
 		
